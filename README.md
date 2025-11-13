@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently working on a webscraper to scrape images of clothes for use in training a vision transformer.<br>
+ I am currently working @ Palo Alto Networks in the Bay Area<br>
 
 
 ## 🌐 Socials:
