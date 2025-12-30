@@ -1,7 +1,7 @@
-# Fabrizio Corrales yo 
+# Fabrizio Corrales :D
 
 Reliability / platform SWE in the Bay Area. Building **Form Factor** (iOS-first fitness app for workout tracking + form scoring).  
-I like dev tooling, observability, distributed systems, and pragmatic ML.
+I like dev tooling, observability, distributed systems, and pragmatic ML to deliver value to real humans. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-corrales/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/ThyDrSlen)
