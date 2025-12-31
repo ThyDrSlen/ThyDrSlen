@@ -56,5 +56,5 @@ I like dev tooling that stacks productivtiy like codex cli or claude code, obser
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ThyDrSlen&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlenid&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThyDrSlen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
