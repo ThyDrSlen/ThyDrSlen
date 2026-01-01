@@ -1,8 +1,12 @@
 # Fabrizio Corrales :D
 
-Reliability / platform SWE in the Bay Area. Building **Form Factor** (iOS-first fitness app for workout tracking + form scoring).  
-I like dev tooling that stacks productivtiy like codex cli or claude code, observability, distributed systems, and pragmatic ML to deliver value to real humans. 
+Reliability / platform SWE in the Bay Area. I like building developer tooling and production systems that are boring in the best way.
 
+Building **Form Factor** (iOS first fitness app), workout tracking plus form scoring and feedback loops.
+
+Interests: productivity tooling (Codex CLI, Claude Code), observability, distributed systems, and pragmatic ML that improves a real user’s day.
+
+Open to: infra + product adjacent roles, early stage teams, and shipping focused collabs.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-corrales/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/ThyDrSlen)
 
