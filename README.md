@@ -21,7 +21,7 @@ Open to: infra + product adjacent roles, early stage teams, and shipping focused
 
 ---
 
-## 📌 Impact
+## 🎯 Impact
 - Build reliability-focused tooling and test infrastructure for agent-style systems
 - Improve developer feedback loops with automation and repeatable test runs
 - Ship across backend + frontend with an emphasis on performance and correctness
