@@ -1,6 +1,6 @@
 # Fabrizio Corrales :D
 
-Reliability / platform SWE in the Bay Area. I like building developer tooling and production systems that are boring in the best way.
+Reliability / platform SWE in the Bay Area. I like building developer tooling and production systems that provide real world value that the end user actual cares about.
 
 Building **Form Factor** (iOS first fitness app), workout tracking plus form scoring and feedback loops.
 
