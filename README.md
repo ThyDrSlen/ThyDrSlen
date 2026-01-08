@@ -17,7 +17,7 @@ Open to: infra + product adjacent roles, early stage teams, and shipping focused
 ## ⭐ Featured
 | Project | What it is | Tech |
 |---|---|---|
-| **[Form Factor](https://github.com/ThyDrSlen/form-factor)** | iOS-first fitness app: workout tracking, vertical video, social feed, form scoring | React Native, Expo, TypeScript, Supabase,ARKit, OpenAI APIs |
+| **[Form Factor](https://github.com/ThyDrSlen/form-factor)** | iOS-first fitness app: workout tracking, vertical video, social feed, form scoring | React Native, Expo, TypeScript, Supabase, ARKit, OpenAI APIs |
 
 ---
 
