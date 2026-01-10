@@ -1,69 +1,75 @@
 # Fabrizio Corrales :D
 
-Reliability / platform SWE in the Bay Area. I like building developer tooling and production systems that provide real world value that the end user actual cares about.
+Reliability / platform SWE in the Bay Area focused on developer tooling and production systems.
 
-Building **Form Factor** (iOS first fitness app), workout tracking plus form scoring and feedback loops.
+I build infra that shortens feedback loops, improves correctness, and ships value users actually feel.
 
-Interests: productivity tooling (Codex CLI, Claude Code), observability, distributed systems, and pragmatic ML that improves a real user’s day.
-
-Open to: infra + product adjacent roles, early stage teams, and shipping focused collabs.
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-corrales/)
-
+Currently building **Form Factor**, an iOS-first fitness app for workout tracking and real-time form feedback.
 
 ---
 
-## ⭐ Featured
-| Project | What it is | Tech |
-|---|---|---|
-| **[Form Factor](https://github.com/ThyDrSlen/form-factor)** | iOS-first fitness app: workout tracking, vertical video, social feed, form scoring | React Native, Expo, TypeScript, Supabase, ARKit, OpenAI APIs |
+## ⭐ Featured Project
+
+### **Form Factor**
+iOS-first fitness app for workout tracking, vertical video, and real-time form scoring.
+
+**Why it matters**  
+Most people lift without feedback. Trainers are expensive and not there for every rep. Form Factor closes that gap with camera-based cues and scoring that help users train better and avoid injury.
+
+**Tech**  
+React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
+
+🔗 https://github.com/ThyDrSlen/form-factor
 
 ---
 
 ## 🎯 Impact
-- Build reliability-focused tooling and test infrastructure for agent-style systems
-- Improve developer feedback loops with automation and repeatable test runs
-- Ship across backend + frontend with an emphasis on performance and correctness
+- Built reliability tooling and E2E test infrastructure for agent-style systems  
+- Shortened developer feedback loops through automation and deterministic test runs  
+- Shipped across backend and frontend with a bias toward performance and correctness  
+
+---
+
+## 🧠 How I Think
+- Prefer boring tech with strong guarantees  
+- Optimize for time-to-signal over perfect abstraction  
+- Ship → measure → iterate  
 
 ---
 
 ## 🧰 Tech Stack
 
 **Languages**  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-3670A0?style=for-the-badge&logo=go&logoColor=ffdd54)
+TypeScript · JavaScript · Python · Go  
 
-**Frameworks / Web**  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Infra / Data**  
+Postgres · Supabase · DuckDB · CI/CD · Observability  
 
-**Data / ML**  
-![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Tools**  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-000000?style=for-the-badge&logo=npm&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+**Frontend / Product**  
+React · React Native · Expo · Next.js · Tailwind  
 
 ---
 
 ## 🧭 Now
-- Shipping **Form Factor** MVP (vertical video + form scoring)
-- Going deeper on reliability + testing infrastructure and observability
-- Open to product-adjacent / forward-deployed style work
+- Shipping **Form Factor** MVP (vertical video + form scoring)  
+- Going deeper on reliability, testing infrastructure, and observability  
+- Open to product-adjacent and forward-deployed style work  
+
+---
+
+## 🤝 Open to
+- Infra + product-adjacent roles  
+- Early-stage teams that value shipping  
+- User-facing or forward-deployed engineering work  
+
+---
+
+## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-corrales/)  
 
 ---
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlen&theme=cyber)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThyDrSlen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThyDrSlen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
