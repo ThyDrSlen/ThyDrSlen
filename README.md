@@ -31,7 +31,6 @@ React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 ---
 
 ## 🧠 How I Think
-- Prefer boring tech with strong guarantees  
 - Optimize for time-to-signal over perfect abstraction  
 - Ship → measure → iterate  
 
