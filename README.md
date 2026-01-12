@@ -32,7 +32,8 @@ React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 
 ## 🧠 How I Think
 - Optimize for time-to-signal over perfect abstraction  
-- Ship → measure → iterate  
+- Ship → measure → iterate
+- Bias to action, then let data correct the course
 
 ---
 
