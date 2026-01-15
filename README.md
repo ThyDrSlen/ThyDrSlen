@@ -82,4 +82,10 @@ React · React Native · Expo · Next.js · Tailwind
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlen&theme=cyber)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThyDrSlen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=ThyDrSlen&theme=dark&hide_border=true&layout=compact)
+
+![Stats](https://github-readme-stats.tuhidulhossain.com/api?username=ThyDrSlen&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThyDrSlen&theme=github-dark&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ThyDrSlen&theme=dark_dimmed&no-bg=true&margin-w=8)
