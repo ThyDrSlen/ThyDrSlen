@@ -16,7 +16,7 @@ iOS-first fitness app for workout tracking, vertical video, and real-time form s
 **Why it matters**  
 Most people lift without feedback. Trainers are expensive and not there for every rep. Form Factor closes that gap with camera-based cues and scoring that help users train better and avoid injury.
 
-##Tech
+## Tech
 React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 
 
