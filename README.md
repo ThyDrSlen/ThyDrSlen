@@ -6,7 +6,6 @@ I build infra that shortens feedback loops, improves correctness, and ships valu
 
 Currently building **Form Factor**, an iOS-first fitness app for workout tracking and real-time form feedback.
 
----
 
 ## ⭐ Featured Project
 
@@ -81,8 +80,6 @@ React · React Native · Expo · Next.js · Tailwind
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlen&theme=cyber)
-
-![Top Langs](https://github-readme-stats.tuhidulhossain.com/api/top-langs/?username=ThyDrSlen&theme=dark&hide_border=true&layout=compact)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThyDrSlen&theme=github-dark&hide_border=true)
 
