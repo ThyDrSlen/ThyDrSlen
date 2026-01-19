@@ -36,14 +36,14 @@ React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 - Shortened developer feedback loops through automation and deterministic test runs  
 - Shipped across backend and frontend with a bias toward performance and correctness  
 
----
+
 
 ## 🧠 How I Think
 - Optimize for time-to-signal over perfect abstraction  
 - Ship → measure → iterate
 - Bias to action, then let data correct the course
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -56,26 +56,25 @@ Postgres · Supabase · DuckDB · CI/CD · Observability
 **Frontend / Product**  
 React · React Native · Expo · Next.js · Tailwind  
 
----
+
 
 ## 🧭 Now
 - Shipping **Form Factor** MVP (vertical video + form scoring)  
 - Going deeper on reliability, testing infrastructure, and observability  
 - Open to product-adjacent and forward-deployed style work  
 
----
+
 
 ## 🤝 Open to
 - Infra + product-adjacent roles  
 - Early-stage teams that value shipping  
 - User-facing or forward-deployed engineering work  
 
----
+
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-corrales/)  
 
----
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlen&theme=cyber)
