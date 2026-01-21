@@ -9,7 +9,7 @@ Currently building **Form Factor**, an iOS-first fitness app for workout trackin
 
 ## ⭐ Featured Project
 
-### **Form Factor**
+## **Form Factor**
 iOS-first fitness app for workout tracking, vertical video, and real-time form scoring.
 
 **Why it matters**  
