@@ -33,15 +33,6 @@ React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 - Shortened developer feedback loops through automation and deterministic test runs  
 - Shipped across backend and frontend with a bias toward performance and correctness  
 
-
-
-## 🧠 How I Think
-- Optimize for time-to-signal over perfect abstraction  
-- Ship → measure → iterate
-- Bias to action, then let data correct the course
-
-
-
 ## 🧰 Tech Stack
 
 **Languages**  
@@ -68,6 +59,10 @@ React · React Native · Expo · Next.js · Tailwind
 - User-facing or forward-deployed engineering work  
 
 
+## 🧠 How I Think
+- Optimize for time-to-signal over perfect abstraction  
+- Ship → measure → iterate
+- Bias to action, then let data correct the course
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-corrales/)  
