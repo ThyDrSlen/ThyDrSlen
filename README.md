@@ -6,6 +6,8 @@ I build infra that shortens feedback loops, improves correctness, and ships valu
 
 Currently building **Form Factor**, an iOS-first fitness app for workout tracking and real-time form feedback.
 
+on god if you hire me and point at a real direction you are seeing a 100x ROI, consider it done.
+
 ## **Form Factor**
 iOS-first fitness app for workout tracking, vertical video, and real-time form scoring.
 
