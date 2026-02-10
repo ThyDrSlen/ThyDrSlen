@@ -38,7 +38,7 @@ React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 ## 🧰 Tech Stack
 
 **Languages**  
-TypeScript · JavaScript · Python · Go · Rust(just a smidge)
+TypeScript · JavaScript · Python · Go · Rust (just a smidge)
 
 **Infra / Data**  
 Postgres · Supabase · DuckDB · CI/CD · Observability  
