@@ -66,9 +66,6 @@ React · React Native · Expo · Next.js · Tailwind
 - Ship → measure → iterate
 - Bias to action, then let data correct the course
 
-## 🔗 Links
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-corrales/)  
-
 
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlen&theme=cyber)
