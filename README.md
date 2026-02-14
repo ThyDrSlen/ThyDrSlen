@@ -5,7 +5,6 @@
 
 # Fabrizio Corrales :D
 
-Software Engineer in the Bay Area focused on developer tooling and production systems.
 
 I build infra that shortens feedback loops, improves correctness, and ships value users actually feel.
 
