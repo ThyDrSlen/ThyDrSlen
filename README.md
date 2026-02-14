@@ -1,3 +1,4 @@
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 # Fabrizio Corrales :D
 
 Software Engineer in the Bay Area focused on developer tooling and production systems.
@@ -71,4 +72,9 @@ React · React Native · Expo · Next.js · Tailwind
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlen&theme=cyber)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThyDrSlen&theme=github-dark&hide_border=true)
+
+
+“Theory will only take us so far” – J. Robert Oppenheimer
+
+<img width=100% title="Hire me !" alt="Hire me !"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
