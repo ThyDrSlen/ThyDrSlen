@@ -74,8 +74,8 @@ React · React Native · Expo · Next.js · Tailwind
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThyDrSlen&theme=github-dark&hide_border=true)
 
-
+<div align="center">
 “Theory will only take us so far” – J. Robert Oppenheimer
-
+</div>
 <img width=100% title="Hire me !" alt="Hire me !"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
 
