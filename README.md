@@ -1,6 +1,6 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%F0%9F%9A%80+Software+Engineer+%7C+Distributed+Systems;%F0%9F%A7%A0+Building+Agent+Simulators+%26+MCP+Tooling;%F0%9F%92%AA+Shipping+Form+Factor+%7C+AR+Fitness+Tech;%F0%9F%94%A5+Turning+Ideas+Into+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=500&color=00F5FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=%F0%9F%9A%80+Software+Engineer+%7C+Distributed+Systems;%F0%9F%A7%A0+Building+Agent+Simulators+%26+MCP+Tooling;%F0%9F%92%AA+Shipping+Form+Factor+%7C+AR+Fitness+Tech;" alt="Typing SVG" />
 
 
 # Fabrizio Corrales :D
