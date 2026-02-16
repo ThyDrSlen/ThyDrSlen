@@ -11,19 +11,19 @@
 
 
 
-I build infra that shortens feedback loops, improves correctness, and ships value users actually feel.
+i build infra that shortens feedback loops, improves correctness, and ships value users actually feel.
 
-Currently building **Form Factor**, an iOS-first fitness app for workout tracking and real-time form feedback.
+currently building **Form Factor**, an iOS-first fitness app for workout tracking and real-time form feedback.
 
 on god if you hire me and point at a real direction you are seeing a 100x ROI, consider it done.
 
-## **Form Factor**
+## **form factor!**
 iOS-first fitness app for workout tracking, vertical video, and real-time form scoring.
 
-### **Why it matters**  
+### ** why it matters **  
 Most people lift without feedback. Trainers are expensive and not there for every rep. Form Factor closes that gap with camera-based cues and scoring that help users train better and avoid injury. An all encompassing fitness platform hitting the trinity of workouts,nutrition and sleep. 
 
-## Tech
+## tech i can work with!
 React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 
 
@@ -39,12 +39,12 @@ React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 🔗 https://github.com/ThyDrSlen/form-factor
 
 
-## 🎯 Impact
+## 🎯 impact!
 - Built reliability tooling and E2E test infrastructure for agent-style systems  
 - Shortened developer feedback loops through automation and deterministic test runs  
 - Shipped across backend and frontend with a bias toward performance and correctness  
 
-## 🧰 Tech Stack
+## 🧰 tech stack!
 
 **Languages**  
 TypeScript · JavaScript · Python · Go · Rust (just a smidge)
@@ -57,26 +57,26 @@ React · React Native · Expo · Next.js · Tailwind
 
 
 
-## 🧭 Now
+## 🧭 rn!
 - Shipping **Form Factor** MVP (vertical video + form scoring)  
 - Going deeper on reliability, testing infrastructure, and observability  
 - Open to product-adjacent and forward-deployed style work  
 
 
 
-## 🤝 Open to
+## 🤝 open to!
 - Infra + product-adjacent roles  
 - Early-stage teams that value shipping  
 - User-facing or forward-deployed engineering work  
 
 
-## 🧠 How I Think
+## 🧠 how i think!
 - Optimize for time-to-signal over perfect abstraction  
 - Ship → measure → iterate
 - Bias to action, then let data correct the course
 
 
-## 📈 GitHub Stats
+## 📈 gh stats for nerds!
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlen&theme=cyber)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThyDrSlen&theme=github-dark&hide_border=true)
