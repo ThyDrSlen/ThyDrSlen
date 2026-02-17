@@ -20,7 +20,7 @@ on god if you hire me and point at a real direction you are seeing a 100x ROI, c
 ## **form factor!**
 iOS-first fitness app for workout tracking, vertical video, and real-time form scoring.
 
-### ** why it matters **  
+### **why it matters**  
 Most people lift without feedback. Trainers are expensive and not there for every rep. Form Factor closes that gap with camera-based cues and scoring that help users train better and avoid injury. An all encompassing fitness platform hitting the trinity of workouts,nutrition and sleep. 
 
 ## tech i can work with!
