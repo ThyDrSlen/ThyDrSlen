@@ -57,20 +57,20 @@ React · React Native · Expo · Next.js · Tailwind
 
 
 
-## 🧭 rn!
+## 🧭 rn !
 - Shipping **Form Factor** MVP (vertical video + form scoring)  
 - Going deeper on reliability, testing infrastructure, and observability  
 - Open to product-adjacent and forward-deployed style work  
 
 
 
-## 🤝 open to!
+## 🤝 open to !
 - Infra + product-adjacent roles  
 - Early-stage teams that value shipping  
 - User-facing or forward-deployed engineering work  
 
 
-## 🧠 how i think!
+## 🧠 how i think !
 - Optimize for time-to-signal over perfect abstraction  
 - Ship → measure → iterate
 - Bias to action, then let data correct the course
