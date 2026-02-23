@@ -39,12 +39,12 @@ React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 🔗 https://github.com/ThyDrSlen/form-factor
 
 
-## 🎯 impact!
+## 🎯 impact !
 - Built reliability tooling and E2E test infrastructure for agent-style systems  
 - Shortened developer feedback loops through automation and deterministic test runs  
 - Shipped across backend and frontend with a bias toward performance and correctness  
 
-## 🧰 tech stack!
+## 🧰  tech stack!
 
 **Languages**  
 TypeScript · JavaScript · Python · Go · Rust (just a smidge)
