@@ -44,7 +44,7 @@ React Native · Expo · TypeScript · Supabase · ARKit · OpenAI APIs
 - Shortened developer feedback loops through automation and deterministic test runs  
 - Shipped across backend and frontend with a bias toward performance and correctness  
 
-## 🧰  tech stack!
+## 🧰  tech stack !
 
 **Languages**  
 TypeScript · JavaScript · Python · Go · Rust (just a smidge)
@@ -76,7 +76,7 @@ React · React Native · Expo · Next.js · Tailwind
 - Bias to action, then let data correct the course
 
 
-## 📈 gh stats for nerds!
+## 📈 github stats for nerds !
 ![GitHub Streak](https://github-readme-stats.tuhidulhossain.com/api/streak?username=ThyDrSlen&theme=cyber)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThyDrSlen&theme=github-dark&hide_border=true)
